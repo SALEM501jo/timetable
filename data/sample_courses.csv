@@ -1,0 +1,22 @@
+section_id,course_code,title,credits,instructor_id,enrolment,needs_lab
+CS101-1,CS101,Intro to Programming,3,I01,38,false
+CS101-2,CS101,Intro to Programming,3,I01,35,false
+CS101L-1,CS101L,Programming Lab,1,I02,24,true
+CS101L-2,CS101L,Programming Lab,1,I02,22,true
+CS101L-3,CS101L,Programming Lab,1,I05,20,true
+CS201-1,CS201,Data Structures,3,I03,40,false
+CS201L-1,CS201L,Data Structures Lab,1,I05,25,true
+CS210-1,CS210,Discrete Mathematics,3,I04,55,false
+CS230-1,CS230,Databases,3,I04,30,false
+CS230L-1,CS230L,Databases Lab,1,I07,30,true
+CS310-1,CS310,Operating Systems,3,I03,28,false
+CS320-1,CS320,Computer Networks,3,I07,32,false
+CS320L-1,CS320L,Networks Lab,2,I07,18,true
+CY250-1,CY250,Intro to Cybersecurity,3,I04,36,false
+SE300-1,SE300,Software Engineering,3,I01,45,false
+MATH101-1,MATH101,Calculus I,3,I06,110,false
+MATH102-1,MATH102,Calculus II,3,I06,60,false
+ENG101-1,ENG101,Academic English,2,I08,30,false
+ENG101-2,ENG101,Academic English,2,I08,28,false
+AI300-1,AI300,Machine Learning,3,I03,150,false
+AI300L-1,AI300L,Machine Learning Lab,1,I02,40,true
